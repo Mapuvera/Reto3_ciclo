@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="Reto 3 final">
+    <list default="true" id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/usa/ciclo3/ciclo3/web/ReservationController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +118,7 @@
       <updated>1633889810195</updated>
       <workItem from="1634912916286" duration="891000" />
       <workItem from="1634914097775" duration="2834000" />
-      <workItem from="1635522950699" duration="3293000" />
+      <workItem from="1635522950699" duration="4257000" />
     </task>
     <task id="LOCAL-00001" summary="Reto 3 final">
       <created>1634915237626</created>
@@ -140,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635526156708</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reto 3,4 y 5 final">
+      <created>1635527086257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635527086257</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reto 3 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reto 3 final" />
+    <MESSAGE value="Reto 3,4 y 5 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reto 3,4 y 5 final" />
   </component>
 </project>

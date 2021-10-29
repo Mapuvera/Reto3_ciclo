@@ -14,7 +14,7 @@ import java.util.Optional;
 @RequestMapping("/api/Reservation")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST,RequestMethod.PUT,RequestMethod.DELETE})
 
-public class ReservationController {
+public class ReservationController{
     @Autowired
     private ReservationService service;
     @GetMapping("/all")
