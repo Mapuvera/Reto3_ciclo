@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="" />
+    <list default="true" id="9cc6ea6c-b8f6-46e8-9ee6-f26c6c99238b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,17 +64,27 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RunManager" selected="Application.Ciclo3Application">
     <configuration name="Ciclo3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="co.usa.ciclo3.ciclo3.Ciclo3Application" />
-      <module name="Ciclo3-Desarrollo_Software" />
+      <module name="Reto3_ciclo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="co.usa.ciclo3.ciclo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ciclo3Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Reto3_ciclo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.usa.ciclo3.ciclo3.Ciclo3Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,6 +96,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Ciclo3Application" />
+      <item itemvalue="Spring Boot.Ciclo3Application" />
+      <item itemvalue="Spring Boot.Ciclo3Application (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Ciclo3Application" />
@@ -100,6 +117,9 @@
       <updated>1633889810195</updated>
       <workItem from="1634912916286" duration="891000" />
       <workItem from="1634914097775" duration="2834000" />
+      <workItem from="1635522950699" duration="5795000" />
+      <workItem from="1635862151972" duration="174000" />
+      <workItem from="1635866360415" duration="2278000" />
     </task>
     <task id="LOCAL-00001" summary="Reto 3 final">
       <created>1634915237626</created>
@@ -115,7 +135,28 @@
       <option name="project" value="LOCAL" />
       <updated>1634915990135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reto 3 final">
+      <created>1635526156708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635526156708</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reto 3,4 y 5 final">
+      <created>1635527086257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635527086257</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Reto 3,4 y 5 final">
+      <created>1635528202261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635528202261</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reto 3 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reto 3 final" />
+    <MESSAGE value="Reto 3,4 y 5 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reto 3,4 y 5 final" />
   </component>
 </project>
